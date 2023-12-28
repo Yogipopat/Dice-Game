@@ -7,8 +7,6 @@ Welcome to the Dice Game project! This simple web-based game allows two players 
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
 - [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -29,13 +27,5 @@ The Dice Game project is a web-based game where two players roll dice, and the p
 ## Customization
 
 Feel free to customize the game to suit your preferences. You can modify the styles, change the dice images, or add new features to enhance the game experience.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md). We welcome improvements, bug fixes, and new features.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal or commercial purposes. If you have any questions or suggestions, please open an issue or reach out to us.
 
 Enjoy playing the Dice Game! 🎲
